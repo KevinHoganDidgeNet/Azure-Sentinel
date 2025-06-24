@@ -11,17 +11,14 @@
     {
       "source": "HuntingQueries",
       "contentType": "HuntingQueries"
-     
     },
     {
       "source": "Parsers",
       "contentType": "Parsers" 
- 
     },
     {
       "source": "Playbooks",
       "contentType": "Playbooks"
-   
     },
     {
       "source": "Workbooks",

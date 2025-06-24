@@ -1,0 +1,20 @@
+{
+  "content": [
+    {
+      "source": "AnalyticsRules",
+      "contentType": "AnalyticRules"
+    },
+    {
+      "source": "Parsers",
+      "contentType": "Parsers"
+    },
+    {
+      "source": "Workbooks",
+      "contentType": "Workbooks"
+    },
+    {
+      "source": "Playbooks",
+      "contentType": "Playbooks"
+    }
+  ]
+}
